@@ -1,4 +1,4 @@
-php_pcm_noise
+php-pcm-noise
 =============
 
 Toying with PCM format spec
